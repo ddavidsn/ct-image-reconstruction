@@ -1,0 +1,10 @@
+# Generated outputs and local files
+results/
+submission.zip
+*.asv
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
