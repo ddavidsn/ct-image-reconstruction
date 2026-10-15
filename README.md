@@ -72,8 +72,6 @@ You can also run the code directly from GNU Octave if its supported dependencies
 
 This repository distinguishes my reconstruction implementation (`reconstruct.m`) from the **university-provided starter package**, which includes the test harness, helper code and example datasets. The provided components are retained to demonstrate how the implementation is evaluated.
 
-> **Publication reminder:** Confirm that your course permits sharing the starter code and practice datasets before making the repository public. Otherwise remove or replace those materials with examples you have permission to distribute.
-
 ## Notes
 
 - Practice examples include reference images for local evaluation; competition datasets are not included.
